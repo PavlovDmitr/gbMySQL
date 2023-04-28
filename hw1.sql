@@ -23,7 +23,7 @@ insert into mobile_phones (
     ('Galaxy S8','Samsung', 1, 41000),
     ('P20 Pro','Huawei', 5, 36000);
     
-# select * from mobile_phones;
+select * from mobile_phones;
 
 select * from mobile_phones where product_count > 2;
 
